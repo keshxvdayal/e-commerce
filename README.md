@@ -4,8 +4,6 @@
 npm i stripe use-shopping-cart next-sanity @stripe/stripe-js @sanity/image-url --force
 ```
 
-## Hero Images:
-https://github.com/ski043/nextjs-commerce-tutorial/tree/main/public/HeroImages
 
 ## Products:
 
@@ -56,7 +54,6 @@ Category: Men
 Description:
 The Nike Windrunner is more than just a jacket; it's a symbol of enduring style and performance. With a design that has stood the test of time, this lightweight and versatile outerwear piece is your go-to choice for brisk mornings, breezy afternoons, and everything in between. Its distinctive chevron design on the chest pays homage to its heritage, while the modern materials and construction ensure it's ready for the demands of today.
 
-Images: https://github.com/ski043/nextjs-commerce-tutorial/tree/main/public/ProductFour
 
 ## Deploy on Vercel
 
